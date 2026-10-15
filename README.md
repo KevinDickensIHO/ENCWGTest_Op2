@@ -70,7 +70,7 @@ All published product specifications (including 1.0.0 versions aimed for testing
 Release candidates and versions within the approval process are found in the [IHO product specification testbed- register](https://registry.iho.int/testbed/list.do)
 
 # Standards & Specifications Repos
-[S-52 Specifications for Chart Content and Display Aspects of ECDIS](https://github.com/KevinDickensIHO/ENCWGTest_Op1)
+[S-52 Specifications for Chart Content and Display Aspects of ECDIS](https://github.com/KevinDickensIHO/S-52-Test)
 
 [S-57 IHO Transfer Standard for Digital Hydrographic Data](https://github.com/KevinDickensIHO/ENCWGTest_Op1)
 
